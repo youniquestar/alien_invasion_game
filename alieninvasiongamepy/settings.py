@@ -28,8 +28,6 @@ class Settings:
 
         self.initialize_dynamic_settings()
 
-        # rateee
-
     def initialize_dynamic_settings(self):
         """Initialize settings that change throughout the game."""
         self.ship_speed = 1.5
